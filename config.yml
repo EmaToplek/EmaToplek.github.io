@@ -1,0 +1,3 @@
+remote_theme: https://github.github.com/eneukirchner/jekll-rtd-theme  #napravi da stranica izgleda tak 
+readme_index: 
+  with_frontmatter: true
