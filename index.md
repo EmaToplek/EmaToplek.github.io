@@ -1,4 +1,4 @@
-# Heute ist so ein wunderschönen Tag.
+# Heute ist so ein wunderschöner Tag.
 
 ## Soooo happpyyyyyy
 
